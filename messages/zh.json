@@ -1,0 +1,25 @@
+{
+  "Header": {
+    "home": "首页",
+    "expansionStrategies": "扩张策略",
+    "growthIntelligence": "增长智能",
+    "blog": "博客"
+  },
+  "HeroSection": {
+    "title": "欢迎来到Growth Business Development",
+    "subtitle": "我们理解每个项目都是转变和发展您业务的独特机会。",
+    "cta": "探索我们的服务"
+  },
+  "Footer": {
+    "quickLinks": "快速链接",
+    "contact": "联系我们",
+    "newsletter": "新闻通讯",
+    "subscribeButton": "订阅",
+    "copyright": "© {year} Growth Business Development México. 保留所有权利。",
+    "home": "首页",
+    "services": "服务",
+    "expansionStrategies": "扩张策略",
+    "growthIntelligence": "增长智能",
+    "blog": "博客"
+  }
+}

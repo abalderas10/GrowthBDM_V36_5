@@ -1,0 +1,25 @@
+{
+  "Header": {
+    "home": "Inicio",
+    "expansionStrategies": "Estrategias de Expansión",
+    "growthIntelligence": "Growth Intelligence",
+    "blog": "Blog"
+  },
+  "HeroSection": {
+    "title": "Bienvenido a Growth Business Development",
+    "subtitle": "Entendemos que cada proyecto es una oportunidad única para transformar y hacer crecer tu negocio.",
+    "cta": "Explora Nuestros Servicios"
+  },
+  "Footer": {
+    "quickLinks": "Enlaces Rápidos",
+    "contact": "Contacto",
+    "newsletter": "Boletín Informativo",
+    "subscribeButton": "Suscribirse",
+    "copyright": "© {year} Growth Business Development México. Todos los derechos reservados.",
+    "home": "Inicio",
+    "services": "Servicios",
+    "expansionStrategies": "Estrategias de Expansión",
+    "growthIntelligence": "Growth Intelligence",
+    "blog": "Blog"
+  }
+}
